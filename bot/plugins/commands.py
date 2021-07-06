@@ -89,7 +89,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Contact Creator', url="https://t.me/urs_bond'),
+        InlineKeyboardButton('Contact Creator', url="https://t.me/urs_bond"),
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
