@@ -7,3 +7,4 @@ class Translation(object):
     START_TEXT = """
     YOU ARE NOT AUTHORISED TO USE ME
     SORRY
+"""
